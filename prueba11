@@ -1,0 +1,6 @@
+# prueba 11.py
+name = "juan"
+def nameprint(name):
+    if name == "juan":
+        print("hola " + name)
+nameprint(name)
